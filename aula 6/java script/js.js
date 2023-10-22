@@ -71,6 +71,34 @@ var typeof=1;
 var const=1;
 */
 
+//------------aula 9 -------
+
+// tipo undefined e null
+
+console.log("\ntipo  undefined e null agora\n");
+
+//hosting - se trata do carregamento das variaveis no topo ao inicar o java script, entaõ
+// se eu dou um console.log(semNome) ela vai dizer undefined, mas já sabe que a variavel vai ser criada;
+console.log(semNome);
+var nome = null;
+
+console.log(nome);
+console.log(typeof nome);//tipo objeto
+
+nome = 'vanubia'
+console.log(nome);
+console.log(typeof nome);//tipo string, porque antes ele era só um objeto com o valor nulo
+
+var semNome
+console.log(semNome);
+console.log(typeof semNome);
+
+semNome="vanubia 2"
+console.log(semNome);
+console.log(typeof semNome);
+
+
+
 
 
 

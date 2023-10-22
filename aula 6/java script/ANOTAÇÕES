@@ -24,3 +24,13 @@ dois tipos de resultado: verdadeiro ou falso
 as comparações resultam em valor boleano 
 
 pode atribuir um true ou false a uma variavel e ela terá o tipo de Boolean.
+
+
+---------------------
+undefined e null
+
+são tippos de dados
+
+o null é o tipo de dado que representa um valor 
+
+o undefined é o tipo de dado de um varavel sem o valor atribuido 
