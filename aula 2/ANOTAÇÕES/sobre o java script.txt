@@ -1,0 +1,12 @@
+3 formas de inserir o java script na pagina:
+
+head: linkando um arquivo de script 
+body: escrevendo o codigo entre as tags script
+body: linkando um arquivo de script;
+
+
+o menos recomendado é o -> body: escrevendo o codigo entre as tags script
+
+Mais utilizado->
+head: linkando um arquivo de script 
+body: linkando um arquivo de script;
