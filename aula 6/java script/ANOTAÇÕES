@@ -1,0 +1,16 @@
+No java script o tipo numerico  chamado de Number comporta tanto numero inteiro como float
+
+Tipos de dados mais comum : Number, Booolean, null e undefined, Object;
+
+podemos verificar o tipo de dado com o operador typof;
+
+três valores simbólicos: +infinity, +infinity, +infinity, +infinity, -infinity e NaN;
+
+------------------
+string 
+
+uma estring pode ser feita com aspas simples '' ou aspas duplas ""
+
+numero em aspas é uma string
+
+é possivel concatenar uma string com outra, ou com outro tipo de dado, usando o operador +
