@@ -1,0 +1,22 @@
+O JAVA SCRUPT TEM TIPAGEM FRACA!
+
+ENTÃO É BOM ADOTAR UM MODELO DE PROGRAMAÇÃO QUE 
+DEIXE AS VARIAVEIS EM SOMENTE UM TIPO,POIS UMA VARIAVEL
+DO TIPO INTEIRO, DO NADA PODE SER PASSADO PARA UMA STRING
+
+
+Tem três  formas de declarar variáveis:
+ var , let e const  
+
+ posteriormente será explicadas.
+
+tem como declarar as variáveis da seguinte forma:
+Ex: 
+var $variavel 
+var _variavel 
+var 1variavel - desse jeito não PODE
+var variaveUm
+var VariavelUm 
+
+
+esse dois ultimos tem diferença entre si - java script é camelcase 
