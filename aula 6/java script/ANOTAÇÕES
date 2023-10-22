@@ -14,3 +14,13 @@ uma estring pode ser feita com aspas simples '' ou aspas duplas ""
 numero em aspas é uma string
 
 é possivel concatenar uma string com outra, ou com outro tipo de dado, usando o operador +
+
+
+------------------
+Boolean 
+
+dois tipos de resultado: verdadeiro ou falso 
+
+as comparações resultam em valor boleano 
+
+pode atribuir um true ou false a uma variavel e ela terá o tipo de Boolean.

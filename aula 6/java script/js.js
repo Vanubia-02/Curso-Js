@@ -1,5 +1,6 @@
 //------------aula 6 -------
 
+console.log("\ntipo Number agora\n");
 
 var numero= 1;
 var float= 5.2;
@@ -23,6 +24,7 @@ console.log(textComNumero+textComNumero);
 console.log(SoNumero+SoNumero);
 
 //------------aula 7 -------
+console.log("\ntipo String agora\n");
 
 var nome= "vanubia"
 console.log(nome);
@@ -39,6 +41,35 @@ console.log(nome + frase);
 document.write(nome + frase + "e essa é uma frase feita com java script com a funcção de document.write(nome + frase + )");
 
 console.log('ola "mundo"');
+
+
+//------------aula 8 -------
+
+//Boolean
+console.log("\ntipo booleano agora\n");
+var verdadeiro = true;
+console.log(verdadeiro);
+console.log(typeof verdadeiro);
+console.log(typeof true);
+
+
+
+var falso = false;
+console.log(falso);
+console.log(typeof falso);
+console.log(typeof true);
+
+//----palavras reservadas---
+
+/*
+var var=1;
+var false= 1;
+var true= 1;
+var let= 1;
+var function = 1;
+var typeof=1;
+var const=1;
+*/
 
 
 
