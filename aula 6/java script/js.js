@@ -98,6 +98,36 @@ console.log(semNome);
 console.log(typeof semNome);
 
 
+//------------aula 10 -------
+
+// tipo Objetos
+
+console.log('\ntipo  Objeto agora - caracterizado por chave e valor (ex: var pessoa={nome: "vanubia", idade: 21})\n');
+
+
+var pessoa={
+    nome: "Vanubia",
+    ano_nascimento: 2002,
+    profissao: "Analista de sistemas",
+    sexo: "feminino",
+    empregado: true
+}
+
+if (pessoa.empregado == true){
+    var empregada='estou empregada'
+}
+
+console.log(pessoa);
+console.log(typeof pessoa);
+console.log(pessoa.profissao);
+console.log("O meu nome é "+ pessoa.nome+", e nasci no ano de "+ pessoa.ano_nascimento+", sou "+ pessoa.profissao+ ", e não ria, porque sou do sexo "+ pessoa.sexo +", e sim, "+ empregada);
+console.log(pessoa.empregado);
+
+//criando uma nova propriedade 
+
+pessoa.feliz=false;
+console.log(pessoa);
+
 
 
 

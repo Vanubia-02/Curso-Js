@@ -34,3 +34,12 @@ são tippos de dados
 o null é o tipo de dado que representa um valor 
 
 o undefined é o tipo de dado de um varavel sem o valor atribuido 
+
+---------------------
+Objetos
+
+Funciona como um array de outras linguagens;
+
+podemos criar propriedades com chave e valor
+
+a ideia é guardar um conjunto de valores para utilizar posteriormente
